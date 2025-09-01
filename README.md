@@ -1,4 +1,3 @@
 - 👋 Hi, I’m Divyanshi Singhal
 - 👀 I’m interested in programming and designing
-- 🌱 I’m currently learning Angular and PostgreSQL and practicing many more already learned language side ways
 - 📫 diyanshisinghal0727@gmail.com, https://www.linkedin.com/in/divyanshi-singhal-463b9a213
